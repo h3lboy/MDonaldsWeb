@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    
+    /* display: inline-block;
+    margin-top: 50px; */
+}
+
+li {
+    display: inline-block;
+    margin-right: 14px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+  
+   padding: 20px;
+   border-bottom: 1px solid gainsboro;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+#main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+button {
+    border: 1px solid red;
+}
+
+
